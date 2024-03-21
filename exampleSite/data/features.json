@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Estimer le besoin de votre client",
+    "description": "Nous réalisons un devis détailler en fonction du besoin de votre client",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Gerez votre relation client",
+    "description": "Ensuite, proposer la brique analytics à votre client selon votre tarif",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Boostez votre pole analytics",
+    "description": "Demarquez vous de vos concurrents, en proposant cette prestation dans vos appels d'offre",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
