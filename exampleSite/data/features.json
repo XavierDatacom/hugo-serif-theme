@@ -1,17 +1,22 @@
 [
   {
-    "title": "Estimer le besoin de votre client",
-    "description": "Nous réalisons un devis détailler en fonction du besoin de votre client",
+    "title": "Un besoin unique ?",
+    "description": "Vous avez un besoin unique ? Le taux journalier est de 750 euros / jour",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Gerez votre relation client",
-    "description": "Ensuite, proposer la brique analytics à votre client selon votre tarif",
+    "title": "Pack Découverte",
+    "description": "Vous avez des besoins régulier. Avec le Pack 10 jours à 700 euros par jour",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Boostez votre pole analytics",
-    "description": "Demarquez vous de vos concurrents, en proposant cette prestation dans vos appels d'offre",
+    "title": "Pack 20",
+    "description": "Vous avez des besoins régulier. Avec le Pack 10 jours à 550 euros par jour",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+    {
+    "title": "Pack 30",
+    "description": "Vous avez des besoins régulier. Avec le Pack 10 jours à 450 euros par jour",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
