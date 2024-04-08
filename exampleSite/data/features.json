@@ -6,18 +6,21 @@
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Pack Découverte",
-    "description": "Vous avez des besoins régulier. Avec le Pack 10 jours à 700 euros par jour",
+    "title": "Pack Standard",
+    "title3": "10-20 jours | 550€/jour",
+    "description": "Parfait pour les projets de taille moyenne, le Pack Standard fournit un équilibre optimal entre coût et qualité, avec une équipe compétente prête à relever les défis.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Pack 20",
-    "description": "Vous avez des besoins régulier. Avec le Pack 10 jours à 550 euros par jour",
+    "title": "Pack Avancé",
+    "title3": "21-30 jours | 500€/jour",
+    "description": "Adapté aux projets complexes nécessitant une expertise approfondie, le Pack Avancé propose une solution rentable avec des professionnels expérimentés pour garantir votre succès.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   },
     {
-    "title": "Pack 30",
-    "description": "Vous avez des besoins régulier. Avec le Pack 10 jours à 450 euros par jour",
+    "title": "Pack Premium",
+    "title3": "31+ jours | 450€/jour",
+    "description": "Conçu pour les projets à long terme, le Pack Premium offre le meilleur rapport qualité-prix, avec une équipe dédiée prête à fournir un soutien continu et une excellence opérationnelle.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
