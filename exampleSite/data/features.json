@@ -2,25 +2,25 @@
   {
     "title": "Pack Découverte ",
     "title3": "3-9 jours | 650€/jour",
-    "description": "Idéal pour les projets de courte durée, le Pack Découverte offre une solution flexible avec des ressources qualifiées pour répondre efficacement à vos besoins initiaux.",
+    "description": "Idéal pour les projets de découverte et de démarrage, le Pack Découverte offre une solution flexible avec des ressources qualifiées pour répondre efficacement à vos besoins initiaux.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Pack Standard",
+    "title": "Pack Courte Durée",
     "title3": "10-20 jours | 550€/jour",
-    "description": "Parfait pour les projets de taille moyenne, le Pack Standard fournit un équilibre optimal entre coût et qualité, avec une équipe compétente prête à relever les défis.",
+    "description": "Parfait pour les projets à court terme, le Pack Courte Durée fournit un équilibre optimal entre coût et qualité, avec une équipe compétente prête à relever les défis de taille moyenne.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Pack Avancé",
+    "title": "Pack Moyenne Durée",
     "title3": "21-30 jours | 500€/jour",
-    "description": "Adapté aux projets complexes nécessitant une expertise approfondie, le Pack Avancé propose une solution rentable avec des professionnels expérimentés pour garantir votre succès.",
+    "description": "Adapté aux projets de durée moyenne et à complexité croissante, le Pack Moyenne Durée propose une solution rentable avec des professionnels expérimentés pour garantir votre succès sur le moyen terme.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   },
     {
-    "title": "Pack Premium",
+    "title": "Pack Longue Durée",
     "title3": "31+ jours | 450€/jour",
-    "description": "Conçu pour les projets à long terme, le Pack Premium offre le meilleur rapport qualité-prix, avec une équipe dédiée prête à fournir un soutien continu et une excellence opérationnelle.",
+    "description": "Conçu pour les projets de longue durée et d'envergure, le Pack Longue Durée offre le meilleur rapport qualité-prix, avec une équipe dédiée prête à fournir un soutien continu et une excellence opérationnelle.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
