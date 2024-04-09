@@ -6,10 +6,11 @@ date: 2024-04-08T12:33:46+10:00
 draft: false
 featured: true
 weight: 2
+summary: "Le Consent Management permet d'assurer la conformité aux réglementations en matière de confidentialité des données et de gérer efficacement les préférences de consentement des utilisateurs."
 ---
 
 Le Consent Management permet d'assurer la conformité aux réglementations en matière de confidentialité des données et de gérer efficacement les préférences de consentement des utilisateurs.
-
+<!--more-->
 
 ![consent management](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
