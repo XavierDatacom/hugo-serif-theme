@@ -1,83 +1,68 @@
 ---
-title: "Mergers"
-date: 2018-11-28T15:15:34+10:00
-featured: true
+title: "Data Visualisation"
+meta_title: 'Data Visualisation | XLconsulting'
+description: "Notre solution de Data Visualisation vous permet de transformer vos données en informations exploitables et de créer des tableaux de bord visuels dynamiques pour prendre des décisions stratégiques éclairées."
+date: 2024-04-08T12:33:46+10:00
 draft: false
-weight: 4
+featured: true
+weight: 3
+summary: "La Data Visualisation consiste à représenter visuellement des données complexes sous forme de graphiques, tableaux et autres visualisations interactives. Elle permet de transformer des données brutes en informations compréhensibles et exploitables, facilitant ainsi la prise de décisions stratégiques et la découverte de tendances cachées"
 ---
 
-Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.
+La Data Visualisation consiste à représenter visuellement des données complexes sous forme de graphiques, tableaux et autres visualisations interactives. Elle permet de transformer des données brutes en informations compréhensibles et exploitables, facilitant ainsi la prise de décisions stratégiques et la découverte de tendances cachées
 <!--more-->
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Data Visualisation](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives 
-
-Financial accounting and financial reporting are often used as synonyms.
-
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
-
-## Relevance
-
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
-
-> The ingredients of relevance are the predictive value and confirmatory value. 
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
+# Offre Data Visualisation
 
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+> Notre solution de Data Visualisation vous permet de transformer vos données en informations exploitables et de créer des tableaux de bord visuels dynamiques pour prendre des décisions stratégiques éclairées.
 
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
+## Définition des objectifs :
+- Identifier les besoins et les objectifs commerciaux pour lesquels le dashboard sera utilisé.
+- Déterminer les principales mesures et KPI à suivre.
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+## Configuration du compte Looker :
+- Créer un compte sur la plateforme Looker.
+- Configurer les paramètres du compte en fonction des besoins de l'entreprise.
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+## Intégration des sources de données :
+- Connecter les sources de données pertinentes à Looker, telles que les bases de données, les entrepôts de données ou les services cloud.
+- Configurer les paramètres de connexion pour garantir la sécurité et la confidentialité des données.
 
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
+## Modélisation des données :
+- Développer des modèles de données dans Looker pour organiser et structurer les données en vue de leur analyse.
+- Créer des relations entre les différentes tables de données pour permettre des analyses croisées.
 
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
+## Création de requêtes et de vues :
+- Utiliser l'interface de requête de Looker pour créer des requêtes SQL ou des expressions LookML pour extraire les données nécessaires.
+- Créer des vues pour représenter les données de manière significative et compréhensible pour les utilisateurs finaux.
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+## Conception du dashboard :
+- Utiliser l'interface de conception de Looker pour créer des tableaux de bord visuels.
+- Sélectionner les visualisations appropriées pour chaque type de données, comme les graphiques, les tableaux croisés dynamiques, les indicateurs clés, etc.
+
+## Personnalisation et mise en page :
+- Personnaliser le dashboard en fonction des besoins spécifiques de l'utilisateur final.
+- Organiser les visualisations de manière logique et intuitive pour une expérience utilisateur optimale.
+
+## Configuration des autorisations d'accès :
+- Définir les autorisations d'accès pour contrôler qui peut accéder au dashboard et quelles données sont disponibles pour chaque utilisateur.
+- Configurer les niveaux d'accès en fonction des rôles et des responsabilités au sein de l'entreprise.
+
+## Tests et validation :
+- Effectuer des tests approfondis pour vérifier que le dashboard fonctionne correctement et affiche les données attendues.
+- Valider le dashboard avec les utilisateurs finaux pour obtenir des retours d'expérience et effectuer des ajustements si nécessaire.
+
+## Déploiement en production :
+- Déployer le dashboard en production une fois que les tests ont été concluants.
+- Communiquer aux utilisateurs finaux comment accéder et utiliser le dashboard de manière efficace.
+
+## Formation et support utilisateur :
+- Organiser des sessions de formation pour les utilisateurs finaux sur l'utilisation du dashboard Looker et l'interprétation des données.
+- Mettre en place un système de support pour aider les utilisateurs en cas de questions ou de problèmes.
+
+## Maintenance continue :
+- Surveiller et mettre à jour régulièrement le dashboard pour s'assurer qu'il reste pertinent et précis.
+- Intégrer les commentaires des utilisateurs pour améliorer et enrichir le dashboard au fil du temps.
