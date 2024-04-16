@@ -12,15 +12,15 @@ title = "xlconsulting"
 [params]
   # In most cases you will only want to set the google_analytics_id OR the google_tag_manager_id. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
   google_analytics_id = ""
-  google_tag_manager_id = ""
-  favicon = "favicon-32x32.svg"
+  google_tag_manager_id = "GTM-NVRFW5Q"
+  favicon = "favicon.ico"
 
   [params.homepage]
     show_contact_box = true      # show / hide the contaxt box on the homepage
     show_services_button = true # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/logo.svg"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
