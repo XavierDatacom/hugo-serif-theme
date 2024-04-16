@@ -2,7 +2,7 @@ baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "xlconsulting"
 
 [module]
   [module.hugoVersion]
@@ -17,14 +17,14 @@ title = "Hugo Serif Theme"
 
   [params.homepage]
     show_contact_box = true      # show / hide the contaxt box on the homepage
-    show_services_button = false # show / hide the "view all services" button
+    show_services_button = true # show / hide the "view all services" button
 
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "xlconsulting"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
@@ -40,9 +40,9 @@ title = "Hugo Serif Theme"
     grey = "#5C5A5A"
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
-    meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
+    meta_og_image = ""
 
   [params.services]
     summary_truncate = 120 # How many characters to include in the summary of the services before truncating
@@ -51,7 +51,7 @@ title = "Hugo Serif Theme"
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    copyright_text = ''
 
 [menu]
   # Main Menu
