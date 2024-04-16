@@ -12,7 +12,7 @@ summary: "Le Consent Management permet d'assurer la conformité aux réglementat
 Le Consent Management permet d'assurer la conformité aux réglementations en matière de confidentialité des données et de gérer efficacement les préférences de consentement des utilisateurs.
 <!--more-->
 
-![consent management](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![consent management](/images/consent.jpg)
 
 # Offre Consent Management
 

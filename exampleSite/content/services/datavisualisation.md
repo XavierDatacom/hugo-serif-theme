@@ -12,7 +12,7 @@ summary: "La Data Visualisation consiste à représenter visuellement des donné
 La Data Visualisation consiste à représenter visuellement des données complexes sous forme de graphiques, tableaux et autres visualisations interactives. Elle permet de transformer des données brutes en informations compréhensibles et exploitables, facilitant ainsi la prise de décisions stratégiques et la découverte de tendances cachées
 <!--more-->
 
-![Data Visualisation](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Data Visualisation](/images/datavisualisation.jpg)
 
 # Offre Data Visualisation
 

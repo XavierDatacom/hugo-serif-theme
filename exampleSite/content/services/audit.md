@@ -11,7 +11,7 @@ summary: "Un audit en matière d'analyse digitale est essentiel pour évaluer la
 
 Un audit en matière d'analyse digitale est essentiel pour évaluer la performance, l'efficacité et la précision de vos outils d'analyse et de suivi des données en ligne.
 
-![Audit Digital analytics](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Audit Digital analytics](/images/audit.jpg)
 
 # Offre Audit Digital analytics
 

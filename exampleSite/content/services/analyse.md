@@ -12,7 +12,7 @@ summary: "L'Analyse Ad hoc est une approche flexible et interactive permettant d
 L'Analyse Ad hoc est une approche flexible et interactive permettant d'obtenir rapidement des insights à partir des données. Elle permet aux organisations de répondre de manière agile à des questions spécifiques et changeantes, en explorant les données de manière libre et en utilisant des outils et des techniques adaptés pour interpréter les résultats. Cette approche favorise la prise de décision éclairée en mettant l'accent sur la réactivité, la collaboration et la mise en évidence des insights les plus pertinents.
 <!--more-->
 
-![Analyse Ad hoc](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Analyse Ad hoc](/images/analyse.jpg)
 
 #  Offre Analyse Ad hoc
 

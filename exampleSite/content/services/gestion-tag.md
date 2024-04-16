@@ -11,7 +11,7 @@ summary: "La Gestion de Tag est un processus permettant de suivre et de collecte
 
 La Gestion de Tag est un processus permettant de suivre et de collecter des données sur les interactions des utilisateurs avec un site web ou une application. Elle implique la sélection, la configuration, l'implémentation et la gestion des tags, qui sont de petits éléments de code intégrés dans les pages web ou les applications pour collecter des informations spécifiques, telles que les clics, les conversions, les interactions, etc. La gestion de tag facilite l'analyse des performances et des comportements des utilisateurs, ainsi que la prise de décisions stratégiques basées sur les données collectées.
 
-![Gestion de Tags](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Gestion de Tags](/images/gestion-tag.jpg)
 
 # # Offre Gestion de Tags
 
